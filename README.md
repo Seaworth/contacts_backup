@@ -35,9 +35,11 @@ g++ -o server server.cpp -l sqlite3
 g++ -o client client.cpp
 ./client
 ```
-<Br/>
-**运行结果**<Br/>
-客户端发送，服务器接收
-![image](http://github.com/Seaworth/contacts_backup/result/socket.png)
-查看数据库
-![image](http://github.com/Seaworth/contacts_backup/result/sqlite.png)
+**运行结果:**
+ 客户端发送，服务器接收
+ 
+ ![image1](https://github.com/Seaworth/contacts_backup/raw/master/result/socket.png)
+ 
+ 查看数据库
+ 
+ ![image2](https://github.com/Seaworth/contacts_backup/raw/master/result/sqlite.PNG)
