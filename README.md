@@ -36,7 +36,8 @@ g++ -o client client.cpp
 ./client
 ```
 **运行结果:**
- 客户端发送，服务器接收
+
+客户端发送，服务器接收
  
  ![image1](https://github.com/Seaworth/contacts_backup/raw/master/result/socket.png)
  
