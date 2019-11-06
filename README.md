@@ -43,4 +43,4 @@ g++ -o client client.cpp
  
  查看数据库
  
- ![image2](./result/sqlite.PNG)
+ ![image2](./result/sqlite.png)
