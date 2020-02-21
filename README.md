@@ -39,8 +39,8 @@ g++ -o client client.cpp
 
 客户端发送，服务器接收
  
- ![image1](./result/socket.png)
+ ![image1](https://github.com/Seaworth/contacts_backup/blob/master/result/socket.png)
  
  查看数据库
  
- ![image2](./result/sqlite.png)
+ ![image2](https://github.com/Seaworth/contacts_backup/blob/master/result/sqlite.PNG)
